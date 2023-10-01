@@ -1,0 +1,18 @@
+A1,Garlic Bread,10
+A2,Olives,2
+A3,Peanuts,1
+B1,Spaghetti Bolognese,45
+B2,Chicken Adobo,60
+B3,Harissa Chicken Stew,60
+B4,Beef Lettuce Wraps,45
+B5,Chilli con Carne,45
+B6,Sumac Roasted Chicken,45
+C1,Steamed Pak Choi,10
+C2,Steamed Broccoli,10
+C3,Roasted Mediterranean vegetables,30
+C4,Bean Salad,15
+C5,Garden Salad,10
+D1,Yogurt,2
+D2,Ice cream,2
+D3,Brownie,2
+D4,Strawberries and Cream,5
